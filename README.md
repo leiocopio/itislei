@@ -47,4 +47,14 @@
 
 <i class="devicon-mysql-original"></i>
 <i class="devicon-sqlite-plain"></i>
-<img src='https://seeklogo.com/vector-logo/435677/supabase' />
+<img src='https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png' />
+
+## Tools I Know/Used
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+<i class="devicon-gimp-plain"></i>
+<i class="devicon-inkscape-plain"></i>
+<img src='https://www.pngfind.com/pngs/m/4-49885_fl-studio-logo-png-transparent-png.png'>
